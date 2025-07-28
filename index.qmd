@@ -1,6 +1,6 @@
 ---
 title: "Junhao WANG"
-image: "C:/Users/Lenovo/Pictures/Saved Pictures/LONDON.jpg"
+image: "images/LONDON.jpg"
 about:
   id: hero-heading
   template: trestles
